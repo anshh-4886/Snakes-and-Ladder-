@@ -558,4 +558,4 @@ while running:
     pg.display.flip()
 
 pg.quit()
-print("\t\tThanks for playing\n\n\t\tA Program by TBA5854")     
+print("\t\tThanks for playing\n\n\t\tA Program by Anshh")     
